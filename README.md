@@ -15,3 +15,6 @@ You need to install Python and pygame, move all files in one folder.
 You need to open folder "Build" and click on file named witcher.exe and start it.
 
 I hope you really enjoy it!
+
+
+![main_menu12](https://user-images.githubusercontent.com/88379173/128413846-e161306a-9880-4bc5-9fd6-859281cc9018.png)
