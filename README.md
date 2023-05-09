@@ -8,11 +8,13 @@ It is full main menu. You can use active buttons and sliders to interact with au
 Also, there are 2 languages: English and Russian. Moreover, you can turn up or down music and sounds. 
 Animation has 32 frames.I drew all pictures usung Adobe Photoshop.
 
-# Warning
-You need to install Python and pygame, move all files in one folder.
+# Prerequisite
+ * Python 3.7
+ * Pygame
+ * Choose display resolution = 1920x1080 and display scaling = 100%
 
 # How to start the game
-You need to open folder "Build" and click on file named witcher.exe and start it.
+You need to open folder "Build" and click on file named _witcher.exe_ and start it.
 
 I hope you really enjoy it!
 
